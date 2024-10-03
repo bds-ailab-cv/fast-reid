@@ -3,7 +3,9 @@ name = "fast-reid"
 version = "1.3.0"
 description = "SOTA Re-identification Methods and Toolbox"
 authors = ["l1aoxingyu"]
+include = ["README.md"]
 readme = "README.md"
+packages = [{include = "fastreid"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
