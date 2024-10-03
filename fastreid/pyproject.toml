@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fast-reid"
+name = "fastreid"
 version = "1.3.0"
 description = "SOTA Re-identification Methods and Toolbox"
 authors = ["l1aoxingyu"]
